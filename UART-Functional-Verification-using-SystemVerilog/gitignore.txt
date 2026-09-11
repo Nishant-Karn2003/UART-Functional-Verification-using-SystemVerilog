@@ -1,0 +1,25 @@
+# ModelSim / QuestaSim
+work/
+transcript
+vsim.wlf
+*.wlf
+modelsim.ini
+*.ucdb
+
+# Simulation outputs
+*.vcd
+*.fst
+*.log
+*.do.bak
+
+# Icarus Verilog
+uart_sim
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*~
